@@ -1,0 +1,29 @@
+{C:/Users/Mahmoud/Desktop/CPEN311/Lab5/Lab5_template_de1soc/lab5tryagain/New folder/slow_to_fast_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/Mahmoud/Desktop/CPEN311/Lab5/Lab5_template_de1soc/lab5tryagain/New folder/slow_to_fast_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module slow_to_fast_tb
+
+Top level modules:
+	slow_to_fast_tb
+
+} {} {}} C:/Users/Mahmoud/Desktop/CPEN311/Lab5/Lab5_template_de1soc/lab5tryagain/fast_to_slow_sync.sv {1 {vlog -work work -sv -stats=none C:/Users/Mahmoud/Desktop/CPEN311/Lab5/Lab5_template_de1soc/lab5tryagain/fast_to_slow_sync.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module fast_to_slow_sync
+
+Top level modules:
+	fast_to_slow_sync
+
+} {} {}} C:/Users/Mahmoud/Desktop/CPEN311/Lab5/Lab5_template_de1soc/lab5tryagain/slow_to_fast_sync.sv {1 {vlog -work work -sv -stats=none C:/Users/Mahmoud/Desktop/CPEN311/Lab5/Lab5_template_de1soc/lab5tryagain/slow_to_fast_sync.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module slow_to_fast_sync
+
+Top level modules:
+	slow_to_fast_sync
+
+} {} {}} C:/Users/Mahmoud/Desktop/CPEN311/Lab5/Lab5_template_de1soc/lab5tryagain/fast_to_slow_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/Mahmoud/Desktop/CPEN311/Lab5/Lab5_template_de1soc/lab5tryagain/fast_to_slow_tb.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module fast_to_slow_tb
+
+Top level modules:
+	fast_to_slow_tb
+
+} {} {}}
